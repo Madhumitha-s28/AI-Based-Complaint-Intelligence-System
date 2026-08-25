@@ -12,13 +12,12 @@ Built an NLP pipeline to classify consumer complaints using SVM and Naive Bayes,
 
 ## Features
 - TF-IDF feature extraction
-- SVM and Naive Bayes models
-- Complaint classification
+- Complaint classification using SVM and Naive Bayes models
 - Sentiment analysis and Severity prediction
-- Interactive dashboard
+- Interactive dashboard with comparison of models
 
 ## How to Run
 
 pip install -r requirements.txt
 
-streamlit run app.py
+streamlit run Streamlit_app.py
